@@ -1,4 +1,3 @@
-
 public class HelloWorld {
     /* 第一个Java程序
  *      * 它将输出字符串 Hello World
@@ -7,6 +6,4 @@ public class HelloWorld {
         System.out.println("Hello World"); // 输出 Hello World
     }
 }
-
-
 
